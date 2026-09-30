@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
 Emiliano Gómez Quiroa \[23212196]; l23212196@tijuana.tecnm.mx
 
