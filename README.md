@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Emiliano Gómez Quiroa \[23212196]; l23212196@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
